@@ -1,0 +1,10 @@
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe.config
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\WhackAMole\WhackAMole\bin\Debug\WhackAMole.pdb
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csprojAssemblyReference.cache
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\WhackAMole\WhackAMole\obj\Debug\WhackAMole.exe
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\WhackAMole\WhackAMole\obj\Debug\WhackAMole.pdb

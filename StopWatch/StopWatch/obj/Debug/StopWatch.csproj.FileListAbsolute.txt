@@ -1,0 +1,10 @@
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\StopWatch\StopWatch\obj\Debug\StopWatch.csprojAssemblyReference.cache
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\StopWatch\StopWatch\obj\Debug\StopWatch.Form1.resources
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+D:\Users\Joshua\Documents\School\GCU\2020 - summer 1\Enterprise Applications 2\Respository\EA2_Activity5\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
